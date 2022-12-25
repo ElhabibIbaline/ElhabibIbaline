@@ -35,6 +35,6 @@
 
   </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibalinehabib&show_icons=true&locale=en&layout=compact" alt="ibalinehabib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhabibibaline&show_icons=true&locale=en&layout=compact" alt="ibalinehabib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elhabibibaline&show_icons=true&locale=en" alt="ibaline" /></p>
